@@ -28,7 +28,7 @@ def load_vocab(file_path):
     return words
 
 
-vocabs = load_vocab(file_path='data/words_alpha.txt')
+vocabs = load_vocab(file_path='source/data/words_alpha.txt')
 
 
 def main():
