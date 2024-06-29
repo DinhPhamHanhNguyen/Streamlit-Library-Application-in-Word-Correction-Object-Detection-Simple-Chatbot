@@ -1,8 +1,8 @@
 import streamlit as st
-import hugchat
 from hugchat.login import Login
 from hugchat.exceptions import ChatError
 import hugchat
+
 # App title
 st.title('Simple ChatBot')
 
