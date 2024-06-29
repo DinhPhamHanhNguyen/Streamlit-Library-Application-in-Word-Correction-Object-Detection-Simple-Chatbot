@@ -10,7 +10,7 @@ A handy tool that provides suggestions and corrections for misspelled words. Thi
 2. Object Detection
 An application that uses machine learning to identify and classify objects within an image. This tool can be used for various purposes, including image analysis and automated tagging.
 
-<a href = "[https://word-suggestion.streamlit.app/](https://object-detection-1.streamlit.app/)">Try it out here!</a>
+<a href = "https://object-detection-1.streamlit.app/">Try it out here!</a>
 
 3. Chatbot
 A simple chatbot designed to engage in basic conversation, answer queries, and provide information. This bot can be easily customized and expanded for more complex interactions.
